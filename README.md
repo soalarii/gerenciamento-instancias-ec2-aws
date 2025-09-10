@@ -2,7 +2,7 @@
 
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 
-1 - Usuário acessando o site
+1 - Usuário acessa o site
 - Existe uma instância EC2 rodando no meu site dominio.com.
 * Nesse exemplo, estou utilizando o WordPress.
 - O usuário entra no navegador > digita o domínio > esse tráfego chega até a minha EC2.

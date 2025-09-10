@@ -6,9 +6,9 @@ Resposta:
 
 <img src="./imagens/processo_ec2.drawio.png" alt="arquitetura instancia ec2" width="300"/>
 
-Legenda das imagens:
+Legenda dos ícones:
 
-<img src="./imagens/user.png" alt="usuario" width="80"/>
+<img src="./imagens/user.png" alt="usuario" width="30"/> Usuário
 
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 

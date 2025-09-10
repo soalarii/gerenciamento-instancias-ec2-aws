@@ -8,7 +8,7 @@ Resposta:
 
 Legenda das imagens:
 
-<img src="./imagens/user.png" alt="usuario" width="300"/>
+<img src="./imagens/user.png" alt="usuario" width="80"/>
 
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 

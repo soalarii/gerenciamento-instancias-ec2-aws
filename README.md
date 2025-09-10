@@ -8,7 +8,11 @@ Resposta:
 
 Legenda dos ícones:
 
-<img src="./imagens/user.png" alt="usuario" width="30"/> Usuário
+<img src="./imagens/user.png" alt="usuario" width="30"/> = Usuário
+
+<img src="./imagens/web.png" alt="monitor" width="30"/> = Máquina com acesso a internet
+
+<img src="./imagens/ec2.png" alt="usuario" width="30"/> = EC2
 
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 

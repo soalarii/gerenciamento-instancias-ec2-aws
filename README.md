@@ -4,11 +4,11 @@ Desafio proposto: Montar no Draw.io uma arquitetura simples com: EC2 - EBS - S3 
 
 Resposta:
 
-<img src="./imagem/processo_ec2.drawio.png" alt="arquitetura instancia ec2" width="300"/>
+<img src="./imagens/processo_ec2.drawio.png" alt="arquitetura instancia ec2" width="300"/>
 
 Legenda das imagens:
 
-<img src="./imagem/user.png" alt="usuario" width="300"/>
+<img src="./imagens/user.png" alt="usuario" width="300"/>
 
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 

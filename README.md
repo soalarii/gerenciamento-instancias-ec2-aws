@@ -12,7 +12,13 @@ Legenda dos ícones:
 
 <img src="./imagens/web.png" alt="monitor" width="30"/> = Máquina com acesso a internet
 
-<img src="./imagens/ec2.png" alt="usuario" width="30"/> = EC2
+<img src="./imagens/ec2.png" alt="ec2" width="30"/> = EC2
+
+<img src="./imagens/s3.png" alt="s3" width="30"/> = S3
+
+<img src="./imagens/ebs.png" alt="ebs" width="30"/> = EBS
+
+<img src="./imagens/lambda.png" alt="lambda" width="30"/> = Lambda
 
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 

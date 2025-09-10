@@ -1,5 +1,15 @@
 # gerenciamento-instancias-ec2-aws
 
+Desafio proposto: Montar no Draw.io uma arquitetura simples com: EC2 - EBS - S3 - Lambda Function.
+
+Resposta:
+
+<img src="./imagem/processo_ec2.drawio.png" alt="arquitetura instancia ec2" width="300"/>
+
+Legenda das imagens:
+
+<img src="./imagem/user.png" alt="usuario" width="300"/>
+
 Como funcionaria essa arquitetura (EC2 + EBS + S3 + Lambda):
 
 1 - Usuário acessa o site
